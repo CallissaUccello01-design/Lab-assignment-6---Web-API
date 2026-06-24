@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework-primary.dia",
+    "emit-module-dependencies" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework-primary-emit-module.dia",
+    "pch" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework-primary.swiftdeps"
+  },
+  "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift" : {
+    "const-values" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.swiftconstvalues",
+    "dependencies" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.d",
+    "diagnostics" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.dia",
+    "index-unit-output-path" : "/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.o",
+    "llvm-bc" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.bc",
+    "object" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.o",
+    "swift-dependencies" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework.swiftdeps",
+    "swiftmodule" : "/Users/callissau/FlutterVSCode/lab_assignment_6_web_api/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/arm64/FlutterFramework~partial.swiftmodule"
+  }
+}
